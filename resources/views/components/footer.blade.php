@@ -122,9 +122,9 @@
         <div id ="right_part">
             <h5>FOLLOW US</h5>
             <div>
-                <img id ="fb" src="../assets/facebook-icon.png" alt="">
-                <img id ="twitter" src="../assets/twitter-logo.png" alt="">
-                <img id ="youtube" src="../assets/Youtube-logo.png" alt="">
+                <img id ="fb" src="{{asset('storage/assets/facebook-icon.png')}}" alt="">
+                <img id ="twitter" src="{{asset('storage/assets/twitter-logo.png')}}" alt="">
+                <img id ="youtube" src="{{asset('storage/assets/Youtube-logo.png')}}" alt="">
             </div>
         </div>
 
